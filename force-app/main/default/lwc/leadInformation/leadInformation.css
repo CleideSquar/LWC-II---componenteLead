@@ -1,0 +1,28 @@
+.lead-information {
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .lead-information__field {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .lead-information__label {
+    margin-left: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #333333;
+  }
+  
+  .lead-information__value {
+    margin-left: 5px;
+    color: #333333;
+  }
+  
+  .lightning-icon {
+    color: #0070d2;
+    margin-right: 5px;
+  }

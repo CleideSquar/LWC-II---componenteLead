@@ -1,0 +1,7 @@
+<template>
+    <lightning-card title="Informações do Lead">
+      <template if:true={hasLead}>
+        <c-lead-information lead={lead}></c-lead-information>
+      </template>
+    </lightning-card>
+  </template>
